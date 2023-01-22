@@ -1,0 +1,12 @@
+body, h1 {
+    margin: 0;
+}
+header {
+    width: 50wh;
+    height: 100vh;
+    background-color:azure;
+
+}
+h1 {
+    font-size: 140px;
+}
