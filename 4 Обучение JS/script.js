@@ -1,1 +1,0 @@
-document.write('В чём сила?');
