@@ -1,0 +1,16 @@
+body {
+color: red;
+font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  }
+  
+  h1 {
+    width: 255px;
+    margin: 0 auto 8px;
+    font-family: "Arial", sans-serif;
+    text-align: center;
+    font-weight: normal;
+    font-size: 56px;
+    line-height: 64px;
+    color: blueviolet;
+  }
+
