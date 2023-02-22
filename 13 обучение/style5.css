@@ -1,0 +1,43 @@
+*{
+    margin: 0;
+    padding: 0;
+  }
+  body {
+    font-family: Roboto;
+  }
+  .block{
+    background: #d9e9e5;
+    padding: 10px;
+    margin: 20px;
+  }
+  .title { 
+    font-size: 20px;
+    font-weight: 700;
+    margin-bottom: 10px;
+  }
+  .description {
+    font-size: 16px;
+    margin-bottom: 10px;
+  }
+  button {
+    padding: 5px;
+  }
+
+  Button {
+    border: 0;
+    border-radius: 7px;
+    background-color: #048075;
+    color: #fff;
+    padding: 10px 20 px;
+    font-size: 16px;
+    text-transform: uppercase;
+    font-weight: 300;
+    font-family: Roboto;
+    cursor: ;
+
+  }
+  
+  
+  
+  
+  
